@@ -117,7 +117,7 @@ def main_menu():
                     Func = True
                     while Func:
                         read_records()
-                        answer = input("Phone book:\n"
+                        answer = input("What should I do with this contact?\n"
                                        "1. Change\n"
                                        "2. Delete\n"
                                        "3. Exit to main\n")
